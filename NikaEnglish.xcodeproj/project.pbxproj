@@ -11,6 +11,28 @@
 		C22772182A642DB6001E258B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22772172A642DB6001E258B /* ContentView.swift */; };
 		C227721A2A642DBA001E258B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C22772192A642DBA001E258B /* Assets.xcassets */; };
 		C227721D2A642DBA001E258B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C227721C2A642DBA001E258B /* Preview Assets.xcassets */; };
+		C22772242A642E3E001E258B /* ColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22772232A642E3D001E258B /* ColorView.swift */; };
+		C22772262A642E57001E258B /* AnimalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22772252A642E56001E258B /* AnimalView.swift */; };
+		C22772282A643EDB001E258B /* ColorsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22772272A643EDB001E258B /* ColorsList.swift */; };
+		C227722A2A65A186001E258B /* Animals.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22772292A65A186001E258B /* Animals.swift */; };
+		C227722C2A67315D001E258B /* GlossaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C227722B2A67315D001E258B /* GlossaryView.swift */; };
+		C227722E2A6C647F001E258B /* CategoryList.swift in Sources */ = {isa = PBXBuildFile; fileRef = C227722D2A6C647F001E258B /* CategoryList.swift */; };
+		C22772302A6C6C4C001E258B /* CategoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C227722F2A6C6C4C001E258B /* CategoryView.swift */; };
+		C22772322A6C712F001E258B /* CategoryDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22772312A6C712F001E258B /* CategoryDetailsView.swift */; };
+		C253EA822A818A9D00AD4953 /* Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = C253EA812A818A9C00AD4953 /* Numbers.swift */; };
+		C253EA842A818B4300AD4953 /* NumbersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C253EA832A818B4300AD4953 /* NumbersView.swift */; };
+		C253EA8D2A88E4A300AD4953 /* Animals.json in Resources */ = {isa = PBXBuildFile; fileRef = C253EA8A2A88E4A300AD4953 /* Animals.json */; };
+		C253EA8E2A88E4A300AD4953 /* Numbers.json in Resources */ = {isa = PBXBuildFile; fileRef = C253EA8B2A88E4A300AD4953 /* Numbers.json */; };
+		C253EA8F2A88E4A300AD4953 /* English.json in Resources */ = {isa = PBXBuildFile; fileRef = C253EA8C2A88E4A300AD4953 /* English.json */; };
+		C2986CAC2A8C070F00B22AF8 /* Colors.json in Resources */ = {isa = PBXBuildFile; fileRef = C2986CAB2A8C070F00B22AF8 /* Colors.json */; };
+		C2A7D0132A72DB5600627B7F /* FoodView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A7D0122A72DB5600627B7F /* FoodView.swift */; };
+		C2A7D0152A72DB8500627B7F /* ShoppingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A7D0142A72DB8500627B7F /* ShoppingView.swift */; };
+		C2A7D0172A72ED9900627B7F /* AlphabetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A7D0162A72ED9900627B7F /* AlphabetView.swift */; };
+		C2A7D0192A75ABAF00627B7F /* Words.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A7D0182A75ABAF00627B7F /* Words.swift */; };
+		C2A7D01B2A75AD0D00627B7F /* WordSaveFormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A7D01A2A75AD0D00627B7F /* WordSaveFormView.swift */; };
+		C2A7D01D2A75AFFF00627B7F /* WordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A7D01C2A75AFFE00627B7F /* WordView.swift */; };
+		C2A7D0212A7C115300627B7F /* Alphabet.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A7D0202A7C115200627B7F /* Alphabet.swift */; };
+		C2A7D0232A7C230500627B7F /* CodableExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A7D0222A7C230500627B7F /* CodableExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +41,28 @@
 		C22772172A642DB6001E258B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C22772192A642DBA001E258B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C227721C2A642DBA001E258B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C22772232A642E3D001E258B /* ColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorView.swift; sourceTree = "<group>"; };
+		C22772252A642E56001E258B /* AnimalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalView.swift; sourceTree = "<group>"; };
+		C22772272A643EDB001E258B /* ColorsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsList.swift; sourceTree = "<group>"; };
+		C22772292A65A186001E258B /* Animals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animals.swift; sourceTree = "<group>"; };
+		C227722B2A67315D001E258B /* GlossaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlossaryView.swift; sourceTree = "<group>"; };
+		C227722D2A6C647F001E258B /* CategoryList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryList.swift; sourceTree = "<group>"; };
+		C227722F2A6C6C4C001E258B /* CategoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryView.swift; sourceTree = "<group>"; };
+		C22772312A6C712F001E258B /* CategoryDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryDetailsView.swift; sourceTree = "<group>"; };
+		C253EA812A818A9C00AD4953 /* Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Numbers.swift; sourceTree = "<group>"; };
+		C253EA832A818B4300AD4953 /* NumbersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumbersView.swift; sourceTree = "<group>"; };
+		C253EA8A2A88E4A300AD4953 /* Animals.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = Animals.json; path = Data/Animals.json; sourceTree = SOURCE_ROOT; };
+		C253EA8B2A88E4A300AD4953 /* Numbers.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = Numbers.json; path = Data/Numbers.json; sourceTree = SOURCE_ROOT; };
+		C253EA8C2A88E4A300AD4953 /* English.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = English.json; path = Data/English.json; sourceTree = SOURCE_ROOT; };
+		C2986CAB2A8C070F00B22AF8 /* Colors.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = Colors.json; path = Data/Colors.json; sourceTree = SOURCE_ROOT; };
+		C2A7D0122A72DB5600627B7F /* FoodView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodView.swift; sourceTree = "<group>"; };
+		C2A7D0142A72DB8500627B7F /* ShoppingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingView.swift; sourceTree = "<group>"; };
+		C2A7D0162A72ED9900627B7F /* AlphabetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlphabetView.swift; sourceTree = "<group>"; };
+		C2A7D0182A75ABAF00627B7F /* Words.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Words.swift; sourceTree = "<group>"; };
+		C2A7D01A2A75AD0D00627B7F /* WordSaveFormView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordSaveFormView.swift; sourceTree = "<group>"; };
+		C2A7D01C2A75AFFE00627B7F /* WordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordView.swift; sourceTree = "<group>"; };
+		C2A7D0202A7C115200627B7F /* Alphabet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alphabet.swift; sourceTree = "<group>"; };
+		C2A7D0222A7C230500627B7F /* CodableExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +97,26 @@
 			children = (
 				C22772152A642DB6001E258B /* NikaEnglishApp.swift */,
 				C22772172A642DB6001E258B /* ContentView.swift */,
+				C2A7D0202A7C115200627B7F /* Alphabet.swift */,
+				C253EA812A818A9C00AD4953 /* Numbers.swift */,
+				C253EA832A818B4300AD4953 /* NumbersView.swift */,
+				C2A7D0162A72ED9900627B7F /* AlphabetView.swift */,
+				C22772232A642E3D001E258B /* ColorView.swift */,
+				C22772252A642E56001E258B /* AnimalView.swift */,
+				C2A7D0222A7C230500627B7F /* CodableExtension.swift */,
+				C2A7D0182A75ABAF00627B7F /* Words.swift */,
+				C227722B2A67315D001E258B /* GlossaryView.swift */,
+				C2A7D01A2A75AD0D00627B7F /* WordSaveFormView.swift */,
+				C2A7D01C2A75AFFE00627B7F /* WordView.swift */,
+				C227722F2A6C6C4C001E258B /* CategoryView.swift */,
+				C22772312A6C712F001E258B /* CategoryDetailsView.swift */,
+				C2A7D0142A72DB8500627B7F /* ShoppingView.swift */,
+				C2A7D0122A72DB5600627B7F /* FoodView.swift */,
+				C227722D2A6C647F001E258B /* CategoryList.swift */,
+				C22772272A643EDB001E258B /* ColorsList.swift */,
 				C22772192A642DBA001E258B /* Assets.xcassets */,
+				C22772292A65A186001E258B /* Animals.swift */,
+				C253EA892A88E2D800AD4953 /* Data */,
 				C227721B2A642DBA001E258B /* Preview Content */,
 			);
 			path = NikaEnglish;
@@ -65,6 +128,17 @@
 				C227721C2A642DBA001E258B /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		C253EA892A88E2D800AD4953 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				C253EA8A2A88E4A300AD4953 /* Animals.json */,
+				C2986CAB2A8C070F00B22AF8 /* Colors.json */,
+				C253EA8C2A88E4A300AD4953 /* English.json */,
+				C253EA8B2A88E4A300AD4953 /* Numbers.json */,
+			);
+			path = Data;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +199,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C253EA8E2A88E4A300AD4953 /* Numbers.json in Resources */,
+				C253EA8D2A88E4A300AD4953 /* Animals.json in Resources */,
 				C227721D2A642DBA001E258B /* Preview Assets.xcassets in Resources */,
+				C253EA8F2A88E4A300AD4953 /* English.json in Resources */,
 				C227721A2A642DBA001E258B /* Assets.xcassets in Resources */,
+				C2986CAC2A8C070F00B22AF8 /* Colors.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +215,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2A7D01D2A75AFFF00627B7F /* WordView.swift in Sources */,
+				C227722C2A67315D001E258B /* GlossaryView.swift in Sources */,
+				C2A7D0232A7C230500627B7F /* CodableExtension.swift in Sources */,
+				C2A7D0172A72ED9900627B7F /* AlphabetView.swift in Sources */,
+				C22772282A643EDB001E258B /* ColorsList.swift in Sources */,
+				C227722A2A65A186001E258B /* Animals.swift in Sources */,
+				C2A7D0132A72DB5600627B7F /* FoodView.swift in Sources */,
+				C22772262A642E57001E258B /* AnimalView.swift in Sources */,
+				C2A7D0212A7C115300627B7F /* Alphabet.swift in Sources */,
+				C22772242A642E3E001E258B /* ColorView.swift in Sources */,
+				C2A7D0192A75ABAF00627B7F /* Words.swift in Sources */,
+				C253EA842A818B4300AD4953 /* NumbersView.swift in Sources */,
 				C22772182A642DB6001E258B /* ContentView.swift in Sources */,
 				C22772162A642DB6001E258B /* NikaEnglishApp.swift in Sources */,
+				C2A7D0152A72DB8500627B7F /* ShoppingView.swift in Sources */,
+				C253EA822A818A9D00AD4953 /* Numbers.swift in Sources */,
+				C22772322A6C712F001E258B /* CategoryDetailsView.swift in Sources */,
+				C227722E2A6C647F001E258B /* CategoryList.swift in Sources */,
+				C2A7D01B2A75AD0D00627B7F /* WordSaveFormView.swift in Sources */,
+				C22772302A6C6C4C001E258B /* CategoryView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +371,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -304,6 +401,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
