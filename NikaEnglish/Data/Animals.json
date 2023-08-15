@@ -1,0 +1,113 @@
+[
+    {
+        "id" : "Собака",
+        "name" : "Собака",
+        "englishName" : "Dog",
+        "picture" : "dog"
+    },
+
+    {
+        "id" : "Кошка",
+        "name" : "Кошка",
+        "englishName" : "Cat",
+        "picture" : "cat"
+    },
+
+    {
+        "id" : "Птица",
+        "name" : "Птица",
+        "englishName" : "Bird",
+        "picture" : "bird"
+    },
+
+    {
+        "id" : "Пчела",
+        "name" : "Пчела",
+        "englishName" : "Bee",
+        "picture" : "bee"
+    },
+
+    {
+        "id" : "Муравей",
+        "name" : "Муравей",
+        "englishName" : "Ant",
+        "picture" : "ant"
+    },
+
+    {
+        "id" : "Утенок",
+        "name" : "Утенок",
+        "englishName" : "Duck",
+        "picture" : "duck"
+    },
+
+    {
+        "id" : "Слон",
+        "name" : "Слон",
+        "englishName" : "Elephant",
+        "picture" : "elephant"
+    },
+
+    {
+        "id" : "Рыба",
+        "name" : "Рыба",
+        "englishName" : "Fish",
+        "picture" : "fish"
+    },
+
+    {
+        "id" : "Лягушка",
+        "name" : "Лягушка",
+        "englishName" : "Frog",
+        "picture" : "frog"
+    },
+
+    {
+        "id" : "Коза",
+        "name" : "Коза",
+        "englishName" : "Goat",
+        "picture" : "goat"
+    },
+
+    {
+        "id" : "Гусь",
+        "name" : "Гусь",
+        "englishName" : "Goose",
+        "picture" : "goose"
+    },
+
+    {
+        "id" : "Бегемот",
+        "name" : "Бегемот",
+        "englishName" : "Hippo",
+        "picture" : "hippo"
+    },
+
+    {
+        ""id" : "Лошадь",
+        "name" : "Лошадь",
+        "englishName" : "Horse",
+        "picture" : "horse"
+    },
+
+    {
+        "id" : "Курица",
+        "name" : "Курица",
+        "englishName" : "Hen",
+        "picture" : "hen"
+    },
+
+    {
+        "id" : "Игуана",
+        "name" : "Игуана",
+        "englishName" : "Iguana",
+        "picture" : "iguana"
+    },
+
+    {
+        "id" : "Тигр",
+        "name" : "Тигр",
+        "englishName" : "Tiger",
+        "picture" : "tiger"
+    }
+]

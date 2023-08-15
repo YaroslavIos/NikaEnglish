@@ -1,0 +1,71 @@
+[
+    {
+        "id" : "1",
+        "number" : "ONE",
+        "pronunciationOfTheNumber" : "[wʌn]",
+        "russianEntryOfTheNumber" : "ван"
+    },
+
+    {
+        "id" : "2",
+        "number" : "TWO",
+        "pronunciationOfTheNumber" : "[tuː]",
+        "russianEntryOfTheNumber" : "ту"
+    },
+
+    {
+        "id" : "3",
+        "number" : "THREE",
+        "pronunciationOfTheNumber" : "[θriː]",
+        "russianEntryOfTheNumber" : "фри"
+    },
+
+    {
+        "id" : "4",
+        "number" : "FOUR",
+        "pronunciationOfTheNumber" : "[fɔː]",
+        "russianEntryOfTheNumber" : "фо"
+    },
+
+    {
+        "id" : "5",
+        "number" : "FIVE",
+        "pronunciationOfTheNumber" : "[fʌɪv]",
+        "russianEntryOfTheNumber" : "файф"
+    },
+
+    {
+        "id" : "6",
+        "number" : "SIX",
+        "pronunciationOfTheNumber" : "[sɪks]",
+        "russianEntryOfTheNumber" : "сикс"
+    },
+
+    {
+        "id" : "7",
+        "number" : "SEVEN",
+        "pronunciationOfTheNumber" : "[ˈsɛvn]",
+        "russianEntryOfTheNumber" : "севн"
+    },
+
+    {
+        "id" : "8",
+        "number" : "EIGHT",
+        "pronunciationOfTheNumber" : "[eɪt]",
+        "russianEntryOfTheNumber" : "эйт"
+    },
+
+    {
+        "id" : "9",
+        "number" : "NINE",
+        "pronunciationOfTheNumber" : "[nʌɪn]",
+        "russianEntryOfTheNumber" : "найн"
+    },
+
+    {
+        "id" : "10",
+        "number" : "TEN",
+        "pronunciationOfTheNumber" : "[tɛn]",
+        "russianEntryOfTheNumber" : "тэн"
+    }
+]

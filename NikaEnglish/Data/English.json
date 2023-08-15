@@ -1,0 +1,235 @@
+[
+    {
+        "id" : "A",
+        "uppercaseLetter" : "A",
+        "lowercaseLetter" : "a",
+        "title" : "a",
+        "pronunciationOfTheLetterName" : "[eɪ]",
+        "russianEntryOfTheLetterName" : "эй"
+    },
+
+    {
+        "id" : "B",
+        "uppercaseLetter" : "B",
+        "lowercaseLetter" : "b",
+        "title" : "bee",
+        "pronunciationOfTheLetterName" : "[biː]",
+        "russianEntryOfTheLetterName" : "би"
+    },
+
+    {
+        "id" : "C",
+        "uppercaseLetter" : "C",
+        "lowercaseLetter" : "c",
+        "title" : "cee",
+        "pronunciationOfTheLetterName" : "[siː]",
+        "russianEntryOfTheLetterName" : "си"
+    },
+
+    {
+        "id" : "D",
+        "uppercaseLetter" : "D",
+        "lowercaseLetter" : "d",
+        "title" : "dee",
+        "pronunciationOfTheLetterName" : "[diː]",
+        "russianEntryOfTheLetterName" : "ди"
+    },
+
+    {
+        "id" : "E",
+        "uppercaseLetter" : "E",
+        "lowercaseLetter" : "e",
+        "title" : "e",
+        "pronunciationOfTheLetterName" : "[iː]",
+        "russianEntryOfTheLetterName" : "и"
+    },
+
+    {
+        "id" : "F",
+        "uppercaseLetter" : "F",
+        "lowercaseLetter" : "f",
+        "title" : "ef",
+        "pronunciationOfTheLetterName" : "[ef]",
+        "russianEntryOfTheLetterName" : "эф"
+    },
+
+    {
+        "id" : "G",
+        "uppercaseLetter" : "G",
+        "lowercaseLetter" : "g",
+        "title" : "gee",
+        "pronunciationOfTheLetterName" : "[dʒiː]",
+        "russianEntryOfTheLetterName" : "джи"
+    },
+
+    {
+        "id" : "H",
+        "uppercaseLetter" : "H",
+        "lowercaseLetter" : "h",
+        "title" : "aitch",
+        "pronunciationOfTheLetterName" : "[eɪtʃ]",
+        "russianEntryOfTheLetterName" : "эйч"
+    },
+
+    {
+        "id" : "I",
+        "uppercaseLetter" : "I",
+        "lowercaseLetter" : "i",
+        "title" : "I",
+        "pronunciationOfTheLetterName" : "[aɪ]",
+        "russianEntryOfTheLetterName" : "ай"
+    },
+
+    {
+        "id" : "J",
+        "uppercaseLetter" : "J",
+        "lowercaseLetter" : "j",
+        "title" : "jay",
+        "pronunciationOfTheLetterName" : "[dʒeɪ]",
+        "russianEntryOfTheLetterName" : "джей"
+    },
+
+    {
+        "id" : "K",
+        "uppercaseLetter" : "K",
+        "lowercaseLetter" : "k",
+        "title" : "kay",
+        "pronunciationOfTheLetterName" : "[keɪ]",
+        "russianEntryOfTheLetterName" : "кей"
+    },
+
+    {
+        "id" : "L",
+        "uppercaseLetter" : "L",
+        "lowercaseLetter" : "l",
+        "title" : "el",
+        "pronunciationOfTheLetterName" : "[el]",
+        "russianEntryOfTheLetterName" : "эл"
+    },
+
+    {
+        "id" : "M",
+        "uppercaseLetter" : "M",
+        "lowercaseLetter" : "m",
+        "title" : "em",
+        "pronunciationOfTheLetterName" : "[em]",
+        "russianEntryOfTheLetterName" : "эм"
+    },
+
+    {
+        "id" : "N",
+        "uppercaseLetter" : "N",
+        "lowercaseLetter" : "n",
+        "title" : "en",
+        "pronunciationOfTheLetterName" : "[ɛn]",
+        "russianEntryOfTheLetterName" : "эн"
+    },
+
+    {
+        "id" : "O",
+        "uppercaseLetter" : "O",
+        "lowercaseLetter" : "o",
+        "title" : "o",
+        "pronunciationOfTheLetterName" : "[əʊ]",
+        "russianEntryOfTheLetterName" : "оу"
+    },
+
+    {
+        "id" : "P",
+        "uppercaseLetter" : "P",
+        "lowercaseLetter" : "p",
+        "title" : "pee",
+        "pronunciationOfTheLetterName" : "[piː]",
+        "russianEntryOfTheLetterName" : "пи"
+    },
+
+    {
+        "id" : "Q",
+        "uppercaseLetter" : "Q",
+        "lowercaseLetter" : "q",
+        "title" : "cue",
+        "pronunciationOfTheLetterName" : "[kjuː]",
+        "russianEntryOfTheLetterName" : "кью"
+    },
+
+    {
+        "id" : "R",
+        "uppercaseLetter" : "R",
+        "lowercaseLetter" : "r",
+        "title" : "ar",
+        "pronunciationOfTheLetterName" : "[ɑː]",
+        "russianEntryOfTheLetterName" : "а"
+    },
+
+    {
+        "id" : "S",
+        "uppercaseLetter" : "S",
+        "lowercaseLetter" : "s",
+        "title" : "ess",
+        "pronunciationOfTheLetterName" : "[es]",
+        "russianEntryOfTheLetterName" : "эс"
+    },
+
+    {
+        "id" : "T",
+        "uppercaseLetter" : "T",
+        "lowercaseLetter" : "t",
+        "title" : "tee",
+        "pronunciationOfTheLetterName" : "[tiː]",
+        "russianEntryOfTheLetterName" : "ти"
+    },
+
+    {
+        "id" : "U",
+        "uppercaseLetter" : "U",
+        "lowercaseLetter" : "u",
+        "title" : "u",
+        "pronunciationOfTheLetterName" : "[juː]",
+        "russianEntryOfTheLetterName" : "ю"
+    },
+
+    {
+        "id" : "V",
+        "uppercaseLetter" : "V",
+        "lowercaseLetter" : "v",
+        "title" : "vee",
+        "pronunciationOfTheLetterName" : "[viː]",
+        "russianEntryOfTheLetterName" : "ви"
+    },
+
+    {
+        "id" : "W",
+        "uppercaseLetter" : "W",
+        "lowercaseLetter" : "w",
+        "title" : "double-u",
+        "pronunciationOfTheLetterName" : "['dʌbljuː]",
+        "russianEntryOfTheLetterName" : "дабл-ю"
+    },
+
+    {
+        "id" : "X",
+        "uppercaseLetter" : "X",
+        "lowercaseLetter" : "x",
+        "title" : "ex",
+        "pronunciationOfTheLetterName" : "[eks]",
+        "russianEntryOfTheLetterName" : "экс"
+    },
+
+    {
+        "id" : "Y",
+        "uppercaseLetter" : "Y",
+        "lowercaseLetter" : "y",
+        "title" : "wy",
+        "pronunciationOfTheLetterName" : "[waɪ]",
+        "russianEntryOfTheLetterName" : "уай"
+    },
+
+    {
+        "id" : "Z",
+        "uppercaseLetter" : "Z",
+        "lowercaseLetter" : "z",
+        "title" : "zed",
+        "pronunciationOfTheLetterName" : "[zɛd]",
+        "russianEntryOfTheLetterName" : "зэд"
+    }
+]
