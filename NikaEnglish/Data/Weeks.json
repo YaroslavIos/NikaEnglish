@@ -1,0 +1,50 @@
+[
+    {
+        "id" : "Sunday",
+        "day" : "Sunday",
+        "pronunciationEnglish" : "['sΛndei]",
+        "pronunciationRussian" : "са':ндей"
+    },
+
+    {
+        "id" : "Monday",
+        "day" : "Monday",
+        "pronunciationEnglish" : "['mΛndei]",
+        "pronunciationRussian" : "ма'ндей"
+    },
+
+    {
+       "id" : "Tuesday",
+        "day" : "Tuesday",
+        "pronunciationEnglish" : "['tju:zdei]",
+        "pronunciationRussian" : "тью':здей"
+    },
+
+    {
+        "id" : "Wednesday",
+        "day" : "Wednesday",
+        "pronunciationEnglish" : "[''wenzdei]",
+        "pronunciationRussian" : "уэ'нздей"
+    },
+
+    {
+        "id" : "Thursday",
+        "day" : "Thursday",
+        "pronunciationEnglish" : "['θə:zdei]",
+        "pronunciationRussian" : "сэ':здей"
+    },
+
+    {
+        "id" : "Friday",
+        "day" : "Friday",
+        "pronunciationEnglish" : "['fraidei ]",
+        "pronunciationRussian" : "фра'йдей"
+    },
+
+    {
+        "id" : "Saturday",
+        "day" : "Sturday",
+        "pronunciationEnglish" : "['sætədei]",
+        "pronunciationRussian" : "сэ'тэдей"
+    }
+]

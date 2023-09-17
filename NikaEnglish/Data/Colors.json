@@ -1,0 +1,56 @@
+[
+    {
+        "id" : "Красный",
+        "name" : "Красный",
+        "englishName" : "Red",
+        "color" : "red"
+    },
+    {
+        "id" : "Оранжевый",
+        "name" : "Оранжевый",
+        "englishName" : "Orange",
+        "color" : "orange"
+    },
+    {
+        "id" : "Жёлтый",
+        "name" : "Жёлтый",
+        "englishName" : "Yellow",
+        "color" : "yellow"
+    },
+    {
+        "id" : "Зелёный",
+        "name" : "Зелёный",
+        "englishName" : "Green",
+        "color" : "green"
+    },
+    {
+        "id" : "Голубой",
+        "name" : "Голубой",
+        "englishName" : "Light blue",
+        "color" : "light blue"
+    },
+    {
+        "id" : "Синий",
+        "name" : "Синий",
+        "englishName" : "Blue",
+        "color" : "blue"
+    },
+    {
+        "id" : "Розовый",
+        "name" : "Розовый",
+        "englishName" : "Pink",
+        "color" : "pink"
+    },
+    {
+        "id" : "Коричневый",
+        "name" : "Коричневый",
+        "englishName" : "Brown",
+        "color" : "brown"
+    },
+    {
+        "id" : "Серый",
+        "name" : "Серый",
+        "englishName" : "Grey",
+        "color" : "grey"
+    }
+]	
