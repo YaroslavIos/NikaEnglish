@@ -9,7 +9,7 @@ import SwiftUI
 
 struct AlphabetView: View {
     let alphabets: [Alphabet] = Bundle.main.decode("English.json")
-    private let columns = [GridItem(.adaptive(minimum: 150, maximum: 180))]
+    private let columns = [GridItem(.adaptive(minimum: 160, maximum: 180))]
     
     var body: some View {
         NavigationView {
@@ -18,16 +18,18 @@ struct AlphabetView: View {
                     ForEach(alphabets) { alphabet in
                         VStack(spacing: 8) {
                             Text(alphabet.uppercaseLetter)
-                                .font(.system(size: 46, weight: .light, design: .serif))
+                                .font(.system(size: 48, weight: .light, design: .serif))
                             HStack {
                                 Text(alphabet.lowercaseLetter)
-                                    .font(.system(size: 26, weight: .light, design: .rounded))
+                                    .font(.system(size: 32, weight: .light, design: .rounded))
                                 Text(alphabet.title)
-                                    .font(.system(size: 26, weight: .light, design: .rounded))
+                                    .font(.system(size: 32, weight: .light, design: .rounded))
                             }
                             HStack {
                                 Text(alphabet.pronunciationOfTheLetterName)
+                                    .font(.system(size: 24, weight: .light, design: .rounded))
                                 Text(alphabet.russianEntryOfTheLetterName)
+                                    .font(.system(size: 24, weight: .light, design: .rounded))
                             }
                         }
                     }
