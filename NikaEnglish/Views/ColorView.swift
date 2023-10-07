@@ -13,28 +13,42 @@ struct ColorView: View {
     let colors: [ColorsList] = Bundle.main.decode("Colors.json")
     
     var body: some View {
-        ScrollView(.horizontal, showsIndicators: false) {
-            HStack(spacing: 12) {
-                ForEach(colors) { color in
-                    VStack(spacing: 10) {
-                        Text(color.englishName)
-                            .font(.title)
-                        
-                        Text(color.name)
-                            .font(.title2)
-                        
+        Form {
+            ForEach(colors) { color in
+                Section(header: Text(color.name)) {
+                    ZStack {
                         Image(color.color)
                             .resizable()
-                            .cornerRadius(16)
-                            .frame(width: 350, height: 500)
+                            .frame(maxWidth: .infinity, maxHeight: 200)
+                        .cornerRadius(12)
+                        Text(color.englishName)
+                            .font(.title)
                     }
                 }
             }
-            .frame(height: 600)
-            .padding()
-            
-            Spacer()
         }
+//        ScrollView(.horizontal, showsIndicators: false) {
+//            HStack(spacing: 12) {
+//                ForEach(colors) { color in
+//                    VStack(spacing: 10) {
+//                        Text(color.englishName)
+//                            .font(.title)
+//
+//                        Text(color.name)
+//                            .font(.title2)
+//
+//                        Image(color.color)
+//                            .resizable()
+//                            .cornerRadius(16)
+//                            .frame(width: 350, height: 500)
+//                    }
+//                }
+//            }
+//            .frame(height: 600)
+//            .padding()
+//
+//            Spacer()
+//        }
     }
 }
 

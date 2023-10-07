@@ -111,9 +111,7 @@
 				C2A7D0182A75ABAF00627B7F /* Words.swift */,
 				C2A7D01A2A75AD0D00627B7F /* WordSaveFormView.swift */,
 				C2A7D01C2A75AFFE00627B7F /* WordView.swift */,
-				C227722F2A6C6C4C001E258B /* CategoryView.swift */,
 				C22772312A6C712F001E258B /* CategoryDetailsView.swift */,
-				C227722D2A6C647F001E258B /* CategoryList.swift */,
 				C22772192A642DBA001E258B /* Assets.xcassets */,
 				C253EA892A88E2D800AD4953 /* Data */,
 				C227721B2A642DBA001E258B /* Preview Content */,
@@ -144,15 +142,16 @@
 		C292259A2AB778A6007441DC /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				C253EA832A818B4300AD4953 /* NumbersView.swift */,
-				C25DC3E02A97E2A600A2EB12 /* DaysView.swift */,
-				C2F3352B2AB5D697005A3D3B /* WeeksView.swift */,
-				C2A7D0162A72ED9900627B7F /* AlphabetView.swift */,
-				C22772232A642E3D001E258B /* ColorView.swift */,
 				C22772252A642E56001E258B /* AnimalView.swift */,
-				C227722B2A67315D001E258B /* GlossaryView.swift */,
-				C2A7D0142A72DB8500627B7F /* ShoppingView.swift */,
+				C2A7D0162A72ED9900627B7F /* AlphabetView.swift */,
+				C227722F2A6C6C4C001E258B /* CategoryView.swift */,
+				C22772232A642E3D001E258B /* ColorView.swift */,
+				C25DC3E02A97E2A600A2EB12 /* DaysView.swift */,
 				C2A7D0122A72DB5600627B7F /* FoodView.swift */,
+				C227722B2A67315D001E258B /* GlossaryView.swift */,
+				C253EA832A818B4300AD4953 /* NumbersView.swift */,
+				C2A7D0142A72DB8500627B7F /* ShoppingView.swift */,
+				C2F3352B2AB5D697005A3D3B /* WeeksView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -173,6 +172,7 @@
 				C22772272A643EDB001E258B /* ColorsList.swift */,
 				C22772292A65A186001E258B /* Animals.swift */,
 				C29225982AB5D984007441DC /* Days.swift */,
+				C227722D2A6C647F001E258B /* CategoryList.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
