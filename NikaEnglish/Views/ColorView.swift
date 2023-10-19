@@ -6,10 +6,11 @@
 //
 
 import SwiftUI
+import AVFoundation
 
 struct ColorView: View {
     
-    
+    let synthesizer = AVSpeechSynthesizer()
     let colors: [ColorsList] = Bundle.main.decode("Colors.json")
     
     var body: some View {
@@ -21,8 +22,16 @@ struct ColorView: View {
                             .resizable()
                             .frame(maxWidth: .infinity, maxHeight: 200)
                         .cornerRadius(12)
-                        Text(color.englishName)
-                            .font(.title)
+                        
+                        Button {
+                            let utterance = AVSpeechUtterance(string: "\(color.englishName)")
+                            utterance.voice = AVSpeechSynthesisVoice(language: "en-GB")
+                            synthesizer.speak(utterance)
+                        } label: {
+                            Text(color.englishName)
+                        }
+                        //Text(color.englishName)
+                            //.font(.title)
                     }
                 }
             }
