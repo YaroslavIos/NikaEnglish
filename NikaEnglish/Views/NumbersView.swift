@@ -6,8 +6,10 @@
 //
 
 import SwiftUI
+import AVFoundation
 
 struct NumbersView: View {
+    let synthesizer = AVSpeechSynthesizer()
     let numbers: [Numbers] = Bundle.main.decode("Numbers.json")
     private let columns = [GridItem(.adaptive(minimum: 160, maximum: 180))]
     
@@ -26,6 +28,11 @@ struct NumbersView: View {
                             Text(number.russianEntryOfTheNumber)
                                 .font(.system(size: 22, weight: .light, design: .serif))
                         }
+                    }
+                    .onTapGesture {
+                        let utterance = AVSpeechUtterance(string: "\(number.number)")
+                        utterance.voice = AVSpeechSynthesisVoice(language: "en-GB")
+                        synthesizer.speak(utterance)
                     }
                 }
             }

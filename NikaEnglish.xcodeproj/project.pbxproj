@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C20DFC422ADB183F00CF80EC /* AnimalCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20DFC412ADB183F00CF80EC /* AnimalCardView.swift */; };
 		C22772162A642DB6001E258B /* NikaEnglishApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22772152A642DB6001E258B /* NikaEnglishApp.swift */; };
 		C22772182A642DB6001E258B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22772172A642DB6001E258B /* ContentView.swift */; };
 		C227721A2A642DBA001E258B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C22772192A642DBA001E258B /* Assets.xcassets */; };
@@ -40,6 +41,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C20DFC412ADB183F00CF80EC /* AnimalCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalCardView.swift; sourceTree = "<group>"; };
 		C22772122A642DB6001E258B /* NikaEnglish.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NikaEnglish.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C22772152A642DB6001E258B /* NikaEnglishApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NikaEnglishApp.swift; sourceTree = "<group>"; };
 		C22772172A642DB6001E258B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -143,6 +145,7 @@
 			isa = PBXGroup;
 			children = (
 				C22772252A642E56001E258B /* AnimalView.swift */,
+				C20DFC412ADB183F00CF80EC /* AnimalCardView.swift */,
 				C2A7D0162A72ED9900627B7F /* AlphabetView.swift */,
 				C227722F2A6C6C4C001E258B /* CategoryView.swift */,
 				C22772232A642E3D001E258B /* ColorView.swift */,
@@ -258,6 +261,7 @@
 				C2A7D0172A72ED9900627B7F /* AlphabetView.swift in Sources */,
 				C22772282A643EDB001E258B /* ColorsList.swift in Sources */,
 				C227722A2A65A186001E258B /* Animals.swift in Sources */,
+				C20DFC422ADB183F00CF80EC /* AnimalCardView.swift in Sources */,
 				C2A7D0132A72DB5600627B7F /* FoodView.swift in Sources */,
 				C22772262A642E57001E258B /* AnimalView.swift in Sources */,
 				C2A7D0212A7C115300627B7F /* Alphabet.swift in Sources */,
